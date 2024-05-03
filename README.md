@@ -18,5 +18,5 @@ The HTML and CSS templates for the timeline layout are sourced from [Slider Revo
 
 ### Example Usage
 
-To view the timeline, visit [Webpage URL].
+To view the timeline, visit [Webpage URL](https://f29c23hkj0.execute-api.us-east-1.amazonaws.com/TimelineLambda).
 
