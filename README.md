@@ -2,7 +2,7 @@
 
 This project creates a timeline of historical events and presents it on a webpage deployed using AWS Lambda. The event details are stored in a DynamoDB table, and images related to the events are stored in an S3 bucket.
 
-### Setup Instructions
+### Deployment
 
 1. **DynamoDB Setup**: Store event details in a DynamoDB table named `TimelineTable`.
 
