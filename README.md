@@ -14,11 +14,12 @@ This project creates a timeline of historical events and presents it on a webpag
 
 ### HTML & CSS Credits
 
-The HTML and CSS templates for the timeline layout are sourced from [Slider Revolution](https://www.sliderrevolution.com/resources/css-timeline/).
+The HTML and CSS templates for the verticle and horizontal timeline  are sourced from [Slider Revolution](https://www.sliderrevolution.com/resources/css-timeline/) and [Cody House](https://codyhouse.co/gem/horizontal-timeline) respectively.
 
 ### Example Usage
 
 To view the timeline, visit [Webpage URL](https://f29c23hkj0.execute-api.us-east-1.amazonaws.com/TimelineLambda).
+
 
 
   ![Image Description](https://github.com/kvnsai/Timeline/blob/main/TimelineDeployment.png?raw=true)
