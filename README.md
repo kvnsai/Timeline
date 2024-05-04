@@ -25,3 +25,7 @@ To view the timeline, visit [Webpage URL](https://f29c23hkj0.execute-api.us-east
 
   ![Image Description](https://timeline-nsai.s3.amazonaws.com/TimelineDeployment.png)
 </div>
+
+<div style="text-align:center;">
+    <img src="https://timeline-nsai.s3.amazonaws.com/TimelineDeployment.png" alt="Image Description">
+</div>
