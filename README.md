@@ -16,9 +16,7 @@ This project creates a timeline of historical events and presents it on a webpag
 
 Credits to [Slider Revolution](https://www.sliderrevolution.com/resources/css-timeline/) and [Cody House](https://codyhouse.co/gem/horizontal-timeline) for the HTML and CSS templates of the verticle and horizontal timelines respectively.
 
-### Example Usage
-
-To view the timeline, visit [Webpage URL](https://f29c23hkj0.execute-api.us-east-1.amazonaws.com/TimelineLambda).
+### [click to view timelines ](https://f29c23hkj0.execute-api.us-east-1.amazonaws.com/TimelineLambda)
 
 
 
