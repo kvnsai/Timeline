@@ -20,6 +20,5 @@ The HTML and CSS templates for the timeline layout are sourced from [Slider Revo
 
 To view the timeline, visit [Webpage URL](https://f29c23hkj0.execute-api.us-east-1.amazonaws.com/TimelineLambda).
 
-To view the timeline, visit [Webpage URL](https://f29c23hkj0.execute-api.us-east-1.amazonaws.com/TimelineLambda).
 
   ![Image Description](https://timeline-nsai.s3.amazonaws.com/TimelineDeployment.png)
