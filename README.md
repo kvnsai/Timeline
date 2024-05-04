@@ -6,9 +6,9 @@ This project creates a timeline of historical events and presents it on a webpag
 
 1. **DynamoDB Setup**: Store event details in a DynamoDB table named `TimelineTable`.
 
-2. **S3 Bucket**: Upload images related to historical events to an S3 bucket. Ensure the bucket is configured for public access if displaying images on a public webpage.
+2. **S3 Bucket**: Upload images related to historical events to an S3 bucket. Ensure the bucket is configured for public access if displaying images on a public webpage. Users load static content from here.
 
-3. **Lambda Function**: Write a Python Lambda function that retrieves data from DynamoDB and generates HTML content for the timeline. Insert image URLs dynamically from S3 into the HTML.
+3. **Lambda Function**: Write a Python Lambda function that retrieves data from DynamoDB and generates HTML content for the timeline. Insert image URLs dynamically from S3 into the HTML. Another lambda Function to insert html file corresponding to each war into S3 bucket  
 
 4. **Deploy Lambda**: Deploy the Lambda function on AWS Lambda with appropriate permissions to access DynamoDB and S3.
 
