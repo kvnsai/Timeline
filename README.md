@@ -12,9 +12,9 @@ This project creates a timeline of historical events and presents it on a webpag
 
 4. **API Gateway**: Attach an API Gateway function to AWS Lambda for fetching timelines. 
 
-### HTML & CSS Credits
+### HTML & CSS 
 
-The HTML and CSS templates for the verticle and horizontal timeline  are sourced from [Slider Revolution](https://www.sliderrevolution.com/resources/css-timeline/) and [Cody House](https://codyhouse.co/gem/horizontal-timeline) respectively.
+Credits to [Slider Revolution](https://www.sliderrevolution.com/resources/css-timeline/) and [Cody House](https://codyhouse.co/gem/horizontal-timeline) for the HTML and CSS templates of the verticle and horizontal timelines respectively.
 
 ### Example Usage
 
