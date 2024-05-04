@@ -22,4 +22,3 @@ To view the timeline, visit [Webpage URL](https://f29c23hkj0.execute-api.us-east
 
 
   ![Image Description](https://github.com/kvnsai/Timeline/blob/main/TimelineDeployment.png?raw=true)
-  ![Image Description](https://timeline-nsai.s3.amazonaws.com/TimelineDeployment.png)
