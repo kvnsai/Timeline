@@ -20,4 +20,4 @@ Credits to [Slider Revolution](https://www.sliderrevolution.com/resources/css-ti
 
 
 
-  ![Image Description](https://github.com/kvnsai/Timeline/blob/main/TimelineDeployment.png?raw=true)
+  ![Image Description](TimelineDeployment.png)
